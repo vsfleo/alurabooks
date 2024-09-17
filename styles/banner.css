@@ -23,3 +23,9 @@
     padding: 1em;
     width: 100%;
 }
+
+.banner__pesquisa::placeholder {
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 400;
+}
