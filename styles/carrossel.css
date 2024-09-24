@@ -1,0 +1,6 @@
+.carrossel_titulo {
+    color: var(--laranja);
+    background-color: var(--branco);
+    text-align: center;
+    text-transform: uppercase;
+}
